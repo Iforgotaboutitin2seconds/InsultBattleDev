@@ -1,4 +1,12 @@
 hp = 100
+max_hp = 100
+bar_width = 200;
+bar_height = 20;
+bar_x = 20;
+bar_y = 20;
+
+health_ratio = hp / max_hp;
+fill_width = bar_width * health_ratio;
 
 
 function getAttack(index){
