@@ -1,0 +1,1 @@
+index = global.options[2]

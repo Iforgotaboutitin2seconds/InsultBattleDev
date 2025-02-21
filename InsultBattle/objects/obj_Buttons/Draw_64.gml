@@ -8,4 +8,4 @@ draw_set_color(c_white);
 
 
 
-draw_text(x,y, obj_Player.getAttack(options[0,0]))
+draw_text(x,y, obj_Player.getAttack(index))

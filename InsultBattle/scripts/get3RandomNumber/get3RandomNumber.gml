@@ -8,6 +8,6 @@ do{
 
 do{
 	number3 = irandom_range(lowestNum,highestNum)
-}until((number3 != number1) and (number3 != number1))
+}until((number3 != number1) and (number3 != number2))
 	return [number1, number2, number3];
 }

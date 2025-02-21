@@ -41,7 +41,7 @@
   "tracks":[
     {"$GMInstanceTrack":"","%Name":"obj_Buttons","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetInstanceKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetInstanceKeyframe>":"","Channels":{
-              "0":{"$AssetInstanceKeyframe":"","Id":{"name":"obj_Buttons_0","path":"objects/obj_Buttons_0/obj_Buttons_0.yy",},"resourceType":"AssetInstanceKeyframe","resourceVersion":"2.0",},
+              "0":{"$AssetInstanceKeyframe":"","Id":{"name":"obj_Buttons","path":"objects/obj_Buttons/obj_Buttons.yy",},"resourceType":"AssetInstanceKeyframe","resourceVersion":"2.0",},
             },"Disabled":false,"id":"db9f88e8-c369-47ee-99a2-1bcbb11ba0e6","IsCreationKey":false,"Key":0.0,"Length":60.0,"resourceType":"Keyframe<AssetInstanceKeyframe>","resourceVersion":"2.0","Stretch":false,},
         ],"resourceType":"KeyframeStore<AssetInstanceKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"obj_Buttons","resourceType":"GMInstanceTrack","resourceVersion":"2.0","trackColour":4282940402,"tracks":[
         {"$GMColourTrack":"","%Name":"blend_multiply","builtinName":10,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<ColourKeyframe>":"","Keyframes":[
@@ -78,7 +78,7 @@
       ],"traits":0,},
     {"$GMInstanceTrack":"","%Name":"obj_Buttons","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetInstanceKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetInstanceKeyframe>":"","Channels":{
-              "0":{"$AssetInstanceKeyframe":"","Id":{"name":"obj_Buttons_0","path":"objects/obj_Buttons_0/obj_Buttons_0.yy",},"resourceType":"AssetInstanceKeyframe","resourceVersion":"2.0",},
+              "0":{"$AssetInstanceKeyframe":"","Id":{"name":"obj_Buttons","path":"objects/obj_Buttons/obj_Buttons.yy",},"resourceType":"AssetInstanceKeyframe","resourceVersion":"2.0",},
             },"Disabled":false,"id":"3eb17be7-7b6e-4cc2-9a8d-2bdba71cf3bf","IsCreationKey":false,"Key":0.0,"Length":60.0,"resourceType":"Keyframe<AssetInstanceKeyframe>","resourceVersion":"2.0","Stretch":false,},
         ],"resourceType":"KeyframeStore<AssetInstanceKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"obj_Buttons","resourceType":"GMInstanceTrack","resourceVersion":"2.0","trackColour":4282940402,"tracks":[
         {"$GMColourTrack":"","%Name":"blend_multiply","builtinName":10,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<ColourKeyframe>":"","Keyframes":[
@@ -115,7 +115,7 @@
       ],"traits":0,},
     {"$GMInstanceTrack":"","%Name":"obj_Buttons","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetInstanceKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetInstanceKeyframe>":"","Channels":{
-              "0":{"$AssetInstanceKeyframe":"","Id":{"name":"obj_Buttons_0","path":"objects/obj_Buttons_0/obj_Buttons_0.yy",},"resourceType":"AssetInstanceKeyframe","resourceVersion":"2.0",},
+              "0":{"$AssetInstanceKeyframe":"","Id":{"name":"obj_Buttons","path":"objects/obj_Buttons/obj_Buttons.yy",},"resourceType":"AssetInstanceKeyframe","resourceVersion":"2.0",},
             },"Disabled":false,"id":"e637e090-119c-4ff7-ab82-b5633d4217e8","IsCreationKey":false,"Key":0.0,"Length":60.0,"resourceType":"Keyframe<AssetInstanceKeyframe>","resourceVersion":"2.0","Stretch":false,},
         ],"resourceType":"KeyframeStore<AssetInstanceKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"obj_Buttons","resourceType":"GMInstanceTrack","resourceVersion":"2.0","trackColour":4282940402,"tracks":[
         {"$GMColourTrack":"","%Name":"blend_multiply","builtinName":10,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<ColourKeyframe>":"","Keyframes":[

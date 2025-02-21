@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Buttons_3",
-  "eventList":[],
+  "%Name":"obj_GM",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Buttons_3",
+  "name":"obj_GM",
   "overriddenProperties":[],
   "parent":{
-    "name":"Buttons",
-    "path":"folders/Objects/Buttons.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_Buttons_0",
-    "path":"objects/obj_Buttons_0/obj_Buttons_0.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Button_Nine_Slice",
-    "path":"sprites/spr_Button_Nine_Slice/spr_Button_Nine_Slice.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

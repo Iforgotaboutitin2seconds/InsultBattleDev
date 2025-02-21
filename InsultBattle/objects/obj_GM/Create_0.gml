@@ -1,0 +1,1 @@
+global.options = getRandom3Number(1,6);
