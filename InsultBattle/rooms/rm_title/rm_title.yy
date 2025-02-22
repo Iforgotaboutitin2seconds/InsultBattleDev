@@ -1,17 +1,17 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room1",
+  "%Name":"rm_title",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_28CDF099","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_750BB339","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_44E9C728","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_77AB811F","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_1EEB1D7A","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_79F05BDA","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_28CDF099","path":"rooms/rm_title/rm_title.yy",},
+    {"name":"inst_750BB339","path":"rooms/rm_title/rm_title.yy",},
+    {"name":"inst_44E9C728","path":"rooms/rm_title/rm_title.yy",},
+    {"name":"inst_77AB811F","path":"rooms/rm_title/rm_title.yy",},
+    {"name":"inst_1EEB1D7A","path":"rooms/rm_title/rm_title.yy",},
+    {"name":"inst_79F05BDA","path":"rooms/rm_title/rm_title.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -25,7 +25,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_Background","path":"sprites/spr_Background/spr_Background.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Room1",
+  "name":"rm_title",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
@@ -41,10 +41,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":500,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":500,
   },
   "sequenceId":null,
   "views":[
