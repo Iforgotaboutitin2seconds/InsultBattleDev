@@ -1,1 +1,1 @@
-index = global.options[1]
+button_index = 1

@@ -5,9 +5,9 @@ bar_height = 20;
 bar_x = display_get_gui_width() - 20 - bar_width;
 bar_y = 20;
 
-
 health_ratio = hp / max_hp;
 fill_width = bar_width * health_ratio;
+
 
 
 function getAttack(index){
