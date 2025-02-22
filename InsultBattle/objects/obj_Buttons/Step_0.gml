@@ -11,6 +11,7 @@ if (mouse_check_button_released(mb_left))
 
 	if (hovering) 
 	{
+		global.options = getRandom3Number(1,6);
 		room_restart();
 	}
 } 
