@@ -13,17 +13,19 @@ function getAttack(index){
 	
 	switch(index){
 		case 1:
-		return "Attack 1"
+		return "you look like you bite"
 		case 2:
-		return "Attack 2"
+		return "you are built like a dum dum"
 		case 3:
-		return "Attack 3"
+		return "the creators didn't put effort into animating you"
 		case 4:
-		return "Attack 4"
+		return "touch grass"
 		case 5:
-		return "Attack 5"
+		return "your mom (parents) doesn't love you"
 		case 6:
-		return "Attack 6"
+		return "you look very kickable"
+		case 7:
+		return "did your dad come back with the milk?"
 	}
 	
 }

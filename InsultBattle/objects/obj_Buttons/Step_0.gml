@@ -20,7 +20,7 @@ if (mouse_check_button_released(mb_left))
 		var bubble = instance_create_layer(obj_Player.x, obj_Player.y - 50, "Instances", obj_AttackBubble)
 		bubble.attack_text = atkText
 		bubble.damage = atkDamage
-		global.options = getRandom3Number(1, 6);
+		global.options = getRandom3Number(1, 7);
 	}
 } 
 

@@ -8,6 +8,7 @@ if (!doneAppearing) {
         if (string_length(currentText) < string_length(fullText)) {
             var nextChar = string_copy(fullText, string_length(currentText) + 1, 1);
             currentText += nextChar;
+			audio_play_sound(Sans, 1, false);
         }
         letterTimer = 0;
         
@@ -22,7 +23,7 @@ else {
     waitTimer--;
     if(waitTimer <= 0) {
         
-        with (obj_Enemy1) {
+        with (obj_Enemy_Kid) {
             hp -= other.damage;
         }
         

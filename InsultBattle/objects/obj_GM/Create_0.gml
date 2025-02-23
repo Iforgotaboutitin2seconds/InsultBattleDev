@@ -1,1 +1,1 @@
-global.options = getRandom3Number(1,6);
+global.options = getRandom3Number(1,7);
