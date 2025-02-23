@@ -24,7 +24,7 @@ else {
     waitTimer--;
     if(waitTimer <= 0) {
         
-        with (obj_Enemy_Kid) {
+        with (obj_Player) {
             hp -= other.damage;
         }
         

@@ -10,26 +10,35 @@ fill_width = bar_width * health_ratio;
 
 
 
-function getAttack(index){
-	
-	switch(index){
-		case 1:
-		return "you look like you bite"
-		case 2:
-		return "you are built like a dum dum"
-		case 3:
-		return "the creators didn’t put effort into animating you"
-		case 4:
-		return "touch grass"
-		case 5:
-		return "your mom (parents) doesn’t love you"
-		case 6:
-		return "you look very kickable"
-		case 7:
-		return "did your dad come back with the milk?"
-	}
-	
+function getAttack(index) {
+    switch(index) {
+        case 1:
+            return "umm you look like a sigma";
+        case 2:
+            return "skibidi toilet would be afraid of you";
+        case 3:
+            return "im going to hit the griddy on you";
+        case 4:
+            return "1v1 me in fortnite bro";
+        case 5:
+            return "shortstack";
+        case 6:
+            return "you look like you’re pregnant";
+        case 7:
+            return "you look like shrek";
+        case 8:
+            return "you’re built like a house";
+        case 9:
+            return "you are a donkey";
+        case 10:
+            return "your mom";
+        case 11:
+            return "womp womp";
+        case 12:
+            return "you have negative aura";
+    }
 }
+
 
 function getDefense(index){
 	
