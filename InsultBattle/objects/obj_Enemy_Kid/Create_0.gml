@@ -23,11 +23,11 @@ function getAttack(index) {
         case 5:
             return "shortstack";
         case 6:
-            return "you look like you’re pregnant";
+            return "you look like you're pregnant";
         case 7:
             return "you look like shrek";
         case 8:
-            return "you’re built like a house";
+            return "you're built like a house";
         case 9:
             return "you are a donkey";
         case 10:

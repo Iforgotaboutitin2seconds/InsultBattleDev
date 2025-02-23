@@ -27,7 +27,6 @@ else {
         with (obj_Player) {
             hp -= other.damage;
         }
-        
         instance_destroy();
     }
 }

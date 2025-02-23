@@ -27,7 +27,7 @@ else {
         with (obj_Enemy_Kid) {
             hp -= other.damage;
         }
-        
+        global.enemyReadyToAttack = true;
         instance_destroy();
     }
 }
