@@ -38,8 +38,8 @@
   "resources":[
     {"id":{"name":"fnf_COMIC","path":"fonts/fnf_COMIC/fnf_COMIC.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
-    {"id":{"name":"obj_AttackBubble_Enemy","path":"objects/obj_AttackBubble_Enemy/obj_AttackBubble_Enemy.yy",},},
-    {"id":{"name":"obj_AttackBubble","path":"objects/obj_AttackBubble/obj_AttackBubble.yy",},},
+    {"id":{"name":"obj_AttackBubble_Kid","path":"objects/obj_AttackBubble_Kid/obj_AttackBubble_Kid.yy",},},
+    {"id":{"name":"obj_AttackBubble_Player","path":"objects/obj_AttackBubble_Player/obj_AttackBubble_Player.yy",},},
     {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},

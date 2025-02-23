@@ -17,7 +17,7 @@ if (mouse_check_button_released(mb_left))
 	{
 		var atkText = obj_Player.getAttack(index)
 		var atkDamage = 15
-		var bubble = instance_create_layer(obj_Player.x, obj_Player.y - 50, "Instances", obj_AttackBubble)
+		var bubble = instance_create_layer(obj_Player.x, obj_Player.y - 50, "Instances", obj_AttackBubble_Player)
 		bubble.attack_text = atkText
 		bubble.damage = atkDamage
 		global.options = getRandom3Number(1, 7);

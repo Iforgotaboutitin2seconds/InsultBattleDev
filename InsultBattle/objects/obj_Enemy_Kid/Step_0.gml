@@ -4,7 +4,7 @@ if (global.enemyReadyToAttack) {
                 var enemyIndex = irandom_range(1, 12);
                 var enemyAttackText = obj_Enemy_Kid.getAttack(enemyIndex);
                 var enemyAttackDamage = 10;
-                var enemyBubble = instance_create_layer(obj_Enemy_Kid.x, obj_Enemy_Kid.y - 50, "Instances", obj_AttackBubble_Enemy);
+                var enemyBubble = instance_create_layer(obj_Enemy_Kid.x, obj_Enemy_Kid.y - 50, "Instances", obj_AttackBubble_Kid);
                 enemyBubble.attack_text = enemyAttackText;
                 enemyBubble.damage = enemyAttackDamage;
             }

@@ -9,7 +9,8 @@ if (!doneAppearing) {
             var nextChar = string_copy(fullText, string_length(currentText) + 1, 1);
             currentText += nextChar;
 			
-			audio_play_sound(Sans, 1, false);
+			var soundInstance = audio_play_sound(Sans, 1, false);
+			audio_sound_pitch(soundInstance, 1.5)
         }
         letterTimer = 0;
         
