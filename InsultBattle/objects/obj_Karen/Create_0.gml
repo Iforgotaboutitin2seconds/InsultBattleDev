@@ -21,6 +21,6 @@ function getAttack(index) {
         case 2:
             return "your hair looks like my dildo";
         case 3:
-            return "you stole the shoes from one of the developers (wear jordans)";
+            return "you stole the shoes from one of the developers";
     }
 }

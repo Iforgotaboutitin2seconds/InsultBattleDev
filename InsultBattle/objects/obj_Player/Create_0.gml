@@ -21,7 +21,7 @@ function getAttackKid(index){
 		case 4:
 		return "touch grass"
 		case 5:
-		return "your mom (parents) doesn't love you"
+		return "your mom doesn't love you"
 		case 6:
 		return "you look very kickable"
 		case 7:
@@ -53,6 +53,8 @@ function getAttackOldMan(index) {
             return "you look like you eat black licorice";
         case 3:
             return "if I breathe too hard you will disintegrate";
+		default:
+            return "bruh moment";
     }
 }
 
@@ -72,6 +74,8 @@ function getDefense(index){
 		return "Defense 5"
 		case 6:
 		return "No u"
+		default:
+        return "bruh moment";
 	}
 	
 }
