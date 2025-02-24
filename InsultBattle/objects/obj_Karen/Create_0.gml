@@ -11,6 +11,9 @@ fill_width = bar_width * health_ratio;
 speed = 2;
 direction = 180;
 
+audio_stop_all()
+audio_play_sound(Karen,1,true)
+
 function getAttack(index) {
     switch(index) {
         case 1:

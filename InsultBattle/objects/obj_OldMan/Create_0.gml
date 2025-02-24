@@ -1,3 +1,4 @@
+audio_stop_all()
 audio_play_sound(OldMan,1,true)
 
 hp = 10000

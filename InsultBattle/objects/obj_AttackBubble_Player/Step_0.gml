@@ -23,6 +23,7 @@ if (!doneAppearing) {
 
 if (global.enemyDoneAttack){
 	global.enemyDoneAttack = false;
+	obj_Player.hp += heal
 	if (instance_exists(obj_Kid)) {
             with (obj_Kid) {
                 hp -= other.damage;

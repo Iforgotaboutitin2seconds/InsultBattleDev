@@ -8,6 +8,8 @@ bar_y = 20;
 health_ratio = hp / max_hp;
 fill_width = bar_width * health_ratio;
 
+audio_play_sound(Kid,1,true)
+
 
 function getAttack(index) {
     switch(index) {

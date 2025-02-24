@@ -1,5 +1,6 @@
 attack_text = "Temp"
-damage = 9
+damage = 0
+heal = 0
 
 x_offset = 0
 y_offset = -50

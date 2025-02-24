@@ -14,7 +14,7 @@ if (hp <= 0) {
 
 	instance_destroy();
 
-    var Karen = instance_create_layer(room_width + 20, 192, "Instances", obj_Karen);
+    var KarenInstance = instance_create_layer(room_width + 20, 192, "Instances", obj_Karen);
 	
 	global.options = getRandom3Number(1, 5);
 }

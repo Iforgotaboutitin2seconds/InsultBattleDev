@@ -60,6 +60,8 @@
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"get3RandomNumber","path":"scripts/get3RandomNumber/get3RandomNumber.yy",},},
     {"id":{"name":"seq_Options","path":"sequences/seq_Options/seq_Options.yy",},},
+    {"id":{"name":"Karen","path":"sounds/Karen/Karen.yy",},},
+    {"id":{"name":"Kid","path":"sounds/Kid/Kid.yy",},},
     {"id":{"name":"OldMan","path":"sounds/OldMan/OldMan.yy",},},
     {"id":{"name":"Sans","path":"sounds/Sans/Sans.yy",},},
     {"id":{"name":"spr_Background","path":"sprites/spr_Background/spr_Background.yy",},},
