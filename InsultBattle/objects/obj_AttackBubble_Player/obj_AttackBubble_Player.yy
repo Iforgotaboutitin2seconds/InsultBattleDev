@@ -10,8 +10,8 @@
   "name":"obj_AttackBubble_Player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"AttackBubble",
+    "path":"folders/Objects/AttackBubble.yy",
   },
   "parentObjectId":null,
   "persistent":false,

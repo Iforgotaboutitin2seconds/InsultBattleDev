@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Enemy_Kid",
+  "%Name":"obj_OldMan",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Enemy_Kid",
+  "name":"obj_OldMan",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_kid_enemy",
-    "path":"sprites/spr_kid_enemy/spr_kid_enemy.yy",
+    "name":"spr_powerful_old_person",
+    "path":"sprites/spr_powerful_old_person/spr_powerful_old_person.yy",
   },
   "spriteMaskId":null,
   "visible":true,

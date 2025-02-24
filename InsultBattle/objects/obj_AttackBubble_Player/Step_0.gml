@@ -16,18 +16,33 @@ if (!doneAppearing) {
         
         if (string_length(currentText) == string_length(fullText)) {
             doneAppearing = true;
+			global.enemyReadyToAttack = true;
         }
     }
 }
-else {
-    
-    waitTimer--;
-    if(waitTimer <= 0) {
-        
-        with (obj_Enemy_Kid) {
-            hp -= other.damage;
+
+if (global.enemyDoneAttack){
+	global.enemyDoneAttack = false;
+	if (instance_exists(obj_Kid)) {
+            with (obj_Kid) {
+                hp -= other.damage;
+            }
         }
-        global.enemyReadyToAttack = true;
+
+
+        if (instance_exists(obj_Karen)) {
+            with (obj_Karen) {
+                hp -= other.damage;
+            }
+        }
+
+
+        if (instance_exists(obj_OldMan)) {
+            with (obj_OldMan) {
+                hp -= other.damage;
+            }
+        }
+		
+        
         instance_destroy();
-    }
 }

@@ -10,14 +10,13 @@ if (!doneAppearing) {
             currentText += nextChar;
 			
 			var soundInstance = audio_play_sound(Sans, 1, false);
-			audio_sound_pitch(soundInstance, 1.5)
+			audio_sound_pitch(soundInstance, 0.1)
         }
         letterTimer = 0;
         
         
         if (string_length(currentText) == string_length(fullText)) {
             doneAppearing = true;
-			
         }
     }
 }
@@ -25,7 +24,6 @@ else {
     
     waitTimer--;
     if(waitTimer <= 0) {
-		
 		global.enemyDoneAttack = true;
         
         with (obj_Player) {

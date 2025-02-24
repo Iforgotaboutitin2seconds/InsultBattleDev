@@ -9,7 +9,7 @@ health_ratio = hp / max_hp;
 fill_width = bar_width * health_ratio;
 
 
-function getAttack(index){
+function getAttackKid(index){
 	
 	switch(index){
 		case 1:
@@ -29,6 +29,33 @@ function getAttack(index){
 	}
 	
 }
+
+function getAttackKaren(index) {
+    switch(index) {
+        case 1:
+            return "you're like the end piece of bread, everyone touches you but no one wants you";
+        case 2:
+            return "you're a food stamp hooker";
+        case 3:
+            return "you look like you need the manager";
+        case 4:
+            return "who's the kid's father?";
+        case 5:
+            return "do you use OnlyFans to pay the bills? I see why you were evicted.";
+    }
+}
+
+function getAttackOldMan(index) {
+    switch(index) {
+        case 1:
+            return "you look and smell like you're decaying as we speak";
+        case 2:
+            return "you look like you eat black licorice";
+        case 3:
+            return "if I breathe too hard you will disintegrate";
+    }
+}
+
 
 function getDefense(index){
 	

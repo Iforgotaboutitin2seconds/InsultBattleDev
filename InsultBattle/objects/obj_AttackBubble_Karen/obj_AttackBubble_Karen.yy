@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_AttackBubble_Kid",
+  "%Name":"obj_AttackBubble_Karen",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_AttackBubble_Kid",
+  "name":"obj_AttackBubble_Karen",
   "overriddenProperties":[],
   "parent":{
     "name":"AttackBubble",
