@@ -51,6 +51,7 @@
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"obj_button_restart","path":"objects/obj_button_restart/obj_button_restart.yy",},},
     {"id":{"name":"obj_Buttons","path":"objects/obj_Buttons/obj_Buttons.yy",},},
+    {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},},
     {"id":{"name":"obj_GM","path":"objects/obj_GM/obj_GM.yy",},},
     {"id":{"name":"obj_Karen","path":"objects/obj_Karen/obj_Karen.yy",},},
     {"id":{"name":"obj_Kid","path":"objects/obj_Kid/obj_Kid.yy",},},
@@ -72,13 +73,14 @@
     {"id":{"name":"spr_kid_enemy","path":"sprites/spr_kid_enemy/spr_kid_enemy.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_powerful_old_person","path":"sprites/spr_powerful_old_person/spr_powerful_old_person.yy",},},
+    {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},},
     {"id":{"name":"spr_uno_reverse_card","path":"sprites/spr_uno_reverse_card/spr_uno_reverse_card.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_insultroom","path":"rooms/rm_insultroom/rm_insultroom.yy",},},
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
+    {"roomId":{"name":"rm_insultroom","path":"rooms/rm_insultroom/rm_insultroom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
